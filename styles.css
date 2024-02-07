@@ -1,0 +1,86 @@
+body {    
+    background-color: #373737;
+}
+
+.container-fluid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-fluid h1 {
+    letter-spacing: 3px;
+    font-family: Agbalumo;
+    color: black;
+    font-size: 30px;
+    margin: 50px 50px;
+}
+
+.input-botao {
+    display: flex;
+}
+
+#botao-adicionar {
+    background-color: #209C38;
+    color: #FFFFFF;
+    height: 40px;
+    padding: 0 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition:all 0.1s ease;
+    font-size: 17px;
+}
+
+#botao-adicionar:hover {
+    transform:scale(1.05);
+}
+
+#input {
+    width: 250px;
+    height: 40px;
+    padding: 0 10px;
+    font-size: 17px;
+    outline: none;
+}
+
+#tarefas {
+    list-style: none;
+    margin-top: 40px;
+    padding: 0;
+    margin-left: 5px;
+}
+
+.item-tarefa {
+    font-size: 20px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #000000;
+    margin-bottom: 30px;
+    align-items: center;
+    text-transform: capitalize;
+}
+
+#botao-ok {
+   background-color: #209C38;   
+   border: none;
+   width: 30px;
+   height: 30px;
+   color: #FFFFFF;
+   display: flex;
+   border-radius: 50%;
+   float: right;
+   align-items: center;
+   margin-right: 35px;
+   cursor: pointer;
+}
+
+#botao-ok:hover {
+    transform:scale(1.08);
+}

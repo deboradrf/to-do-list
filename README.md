@@ -4,23 +4,23 @@
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
 </p>
 
-> ### 📚 Descrição
+## 📚 Descrição
 Projeto desenvolvido para fixação de conteúdo, que consiste em uma lista de tarefas.
 
-> ### 🎨 Layout
+## 🎨 Layout
 <img src="https://github.com/deboradrf/to-do-list/assets/130398684/33050ab9-1e61-4c16-9ab8-e40008d59c54">
 
-> ### ⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 ``1`` Adicionar uma tarefa. <br>
 ``2`` Marcar tarefa como concluída.
 
-> ### ✔️ Tecnologias utilizadas
+## ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
 - ``HTML``
 - ``CSS``
 - ``Bootstrap``
 - ``JavaScript``
 
-> ### 📁 Acesso ao projeto
+## 📁 Acesso ao projeto
 Hospedado no Netlify <br>
 Link: https://todolist-deboradrf.netlify.app

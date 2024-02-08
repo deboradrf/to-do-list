@@ -12,7 +12,7 @@ Projeto desenvolvido para fixação de conteúdo, que consiste em uma lista de t
 
 ## ⚙️ Funcionalidades
 ``1`` Adicionar uma tarefa. <br>
-``2`` Marcar uma tarefa com concluída, fazendo com que seja excluída da lista.
+``2`` Marcar tarefa com concluída, fazendo com que seja excluída da lista.
 
 ## ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
